@@ -8,5 +8,5 @@
 
 3. The data is received by the client. It is then passed over to the Robot [Internet for Robotic Arm](client.py)
 
-4. The motors are attached to the robot and it accepts the values it receives over Wifi [Robotic Arm Code][robotArm.ino]
+4. The motors are attached to the robot and it accepts the values it receives over Wifi [Robotic Arm Code](robotArm.ino)
 
